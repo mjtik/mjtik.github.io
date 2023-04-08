@@ -1,29 +1,4 @@
-.la--nav__account {
-    background-color:red;
-}
 
-.pp-details {
-    padding: .75em .75em .75em .75em;
-}
-
-.pp-details a:after{
-    position:relative;
-    top: .5em;
-    right: .5em;
-    display: block;
-    padding: .5em .5em .5em .5em;
-    margin: .75em .75em 1.5em .75em;
-    font-weight: 700;
-    line-height: 1;
-    color: #0030cc;
-    text-align: left;
-    text-decoration: none;
-    content: "Select";
-    border: 2px solid #809dff;
-    border-radius: 4px;
-    opacity: .5;
-}
-
-.pick {
-    text-decoration: none;
+.program-details {
+    display:none;
 }
