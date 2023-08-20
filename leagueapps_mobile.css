@@ -1,4 +1,6 @@
-
+.content.program--listing p{
+    display: none;
+}
 .program-details {
     display:none;
 }
