@@ -1,4 +1,8 @@
 
-.program-details .choose {
+.program-details {
+    display:none;
+}
+
+#choose.choose.p {
     display:none;
 }
