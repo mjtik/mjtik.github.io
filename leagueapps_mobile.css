@@ -1,6 +1,9 @@
 .content.program--listing p, h3{
     display: none;
 }
+.scrollable p {
+    display:block !important
+}
 .program-details {
     display:none;
 }
@@ -8,3 +11,4 @@
 #choose.choose.p {
     display:none;
 }
+
